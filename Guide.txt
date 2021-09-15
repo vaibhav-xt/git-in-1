@@ -1,0 +1,20 @@
+Git is based on Unix based syntax.
+
+Steps :-
+
+1) Always First check\set username and user email to check type
+	
+	To Set :-
+
+	i)  Name :- git config --global user.name (name)
+	ii) Email :- git config --global user.email (name@gmail.com)
+
+	To Check :-
+	
+	i)  Name - git config --global user.name
+	ii) Email - git config --global user.email
+
+2) Now type " git init " to initialized empty repository 
+3) " ls -lart " shows the hidden files in .git
+4) " git status " to check status
+5) Now to add to stage in Git file's like python or html or any file then type " git add (name of the file).
