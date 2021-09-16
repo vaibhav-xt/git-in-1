@@ -44,3 +44,15 @@ Steps :-
 11) Must remember that you always check status because if there is any change in file then you get know immidiately.
 
 12) If you want to clear terminal than type "clear". It clear the terminal.
+
+14) Now if you have updated the file or by mistake you have deleted and get save by the user then type "git checkout (name of the file)"
+    It will copy the deleted files.
+	
+	If you have many file to create a backup than type "git checkout -f".
+
+15) If you want to check the commit than type "git log".  It shows all the files.
+
+16) Now if you want to check a specific location of commit than type " git log -p -(how many no. of commit)
+
+17) " git diff " syntax show the difference that added and removed.
+
