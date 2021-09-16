@@ -5,12 +5,12 @@ Steps :-
 1) Always First check\set username and user email to check type
 	
 	To Set :-
-
+ 
 	i)  Name :- git config --global user.name (name)
 	ii) Email :- git config --global user.email (name@gmail.com)
 
 	To Check :-
-	
+	 
 	i)  Name - git config --global user.name
 	ii) Email - git config --global user.email
 
@@ -18,3 +18,23 @@ Steps :-
 3) " ls -lart " shows the hidden files in .git
 4) " git status " to check status
 5) Now to add to stage in Git file's like python or html or any file then type " git add (name of the file).
+	[Note:- While adding the file must be in  the same directory]
+
+6) To Check git version then type "git --version"
+7) To start any project we must commit it to file or to save (Initial Commit)
+	Syntax :- git commit
+		i)   After writing commit, Now if you write any text then add first write "Capital I" to insert
+		ii)  After that, Here you can add message like "Initial Commit".
+		iii) To Exit, then press Key :- first - Esc
+						second - :
+						third - w
+						fourth - q
+8) If we write " git status " it says that working tree clean (means its ok now can go for next step).
+
+9) Now if you want to create any file using git bash then type txt " touch (name of the file) ". 
+   Here touch is used to create new files.
+
+10) Lets Say, You have more than thousand of file to add to stage then you cant do one by one which is very difficult.
+    This time you can write the text " git add -A " it will add all the files
+
+11) Must remember that you always check status because if there is any change in file then you get know immidiately.
