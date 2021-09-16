@@ -18,8 +18,8 @@ Steps :-
 3) " ls -lart " shows the hidden files in .git
 4) " git status " to check status
 5) Now to add to stage in Git file's like python or html or any file then type " git add (name of the file).
-	[Note:- While adding the file must be in  the same directory]
-
+	[Note:- While adding the file must be in  the same directory] 
+ 
 6) To Check git version then type "git --version"
 7) To start any project we must commit it to file or to save (Initial Commit)
 	Syntax :- git commit
@@ -29,6 +29,10 @@ Steps :-
 						second - :
 						third - w
 						fourth - q
+		Next Short Method To commit-
+			i) First type "git commit -m ""(add message in inverted comma)"		
+
+
 8) If we write " git status " it says that working tree clean (means its ok now can go for next step).
 
 9) Now if you want to create any file using git bash then type txt " touch (name of the file) ". 
@@ -38,3 +42,5 @@ Steps :-
     This time you can write the text " git add -A " it will add all the files
 
 11) Must remember that you always check status because if there is any change in file then you get know immidiately.
+
+12) If you want to clear terminal than type "clear". It clear the terminal.
