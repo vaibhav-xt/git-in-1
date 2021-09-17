@@ -66,3 +66,11 @@ Steps :-
 21) If you want to delete the file from the directory (note that this means that file is not deleting from the system its only deleting from the git dircectory) 
     the syntax is " git rm --cached (name of the file) ". To delete completely from the system then write syntax " git rm (name of the file) ".
 
+22) Now another method to check status i.e. this method is short the synatx is " git status -s ". 
+    After running the command you can see that there two M :- Here first(means Green) M shows that staged file is Modified.
+    Red M show that file is modified in working directory.
+
+23) Now lets talk about how to ignore the file: -    1) 
+						
+
+ 
