@@ -56,3 +56,8 @@ Steps :-
 
 17) " git diff " syntax show the difference that added and removed.
 
+18) Now if we write a command "git diff --staged" than it will compare with the last commit. 
+
+19) If you have a problem like this "Another git process seems to be running in this repository"
+    then type the command  "rm .git/index.lock"
+20) 
