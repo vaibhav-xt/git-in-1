@@ -70,7 +70,10 @@ Steps :-
     After running the command you can see that there two M :- Here first(means Green) M shows that staged file is Modified.
     Red M show that file is modified in working directory.
 
-23) Now lets talk about how to ignore the file: -    1) 
+23) Now lets talk about how to ignore the file: -    1) first make ignore file by typing " touch .gitignore ".
+						     2) Now the file that you want to ignore if write the file name
+							with extension in the ignore file i.e, .gitignore after that save the files.
+						     3) 
 						
 
  
