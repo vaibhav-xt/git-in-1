@@ -60,4 +60,9 @@ Steps :-
 
 19) If you have a problem like this "Another git process seems to be running in this repository"
     then type the command  "rm .git/index.lock"
-20)
+
+20) If you want to commit directly without going to staged then type syntax " git commit -a -m "write meassage".
+
+21) If you want to delete the file from the directory (note that this means that file is not deleting from the system its only deleting from the git dircectory) 
+    the syntax is " git rm --cached (name of the file) ". To delete completely from the system then write syntax " git rm (name of the file) ".
+
