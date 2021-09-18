@@ -73,7 +73,13 @@ Steps :-
 23) Now lets talk about how to ignore the file: -    1) first make ignore file by typing " touch .gitignore ".
 						     2) Now the file that you want to ignore if write the file name
 							with extension in the ignore file i.e, .gitignore after that save the files.
-						     3) 
-						asdjhfsajhkjfhsakjhdfkjsdkjah
+						     3) then get into the staged. Here you can see that ignore files are not staged
 
+24) Now if you want create a branch the type the syntax "git branch (name of the file)".
+
+25) After creating the file, want to switch on that file then type text "git checkout (name of the file)"
+
+26) Now if want to check in which branch we are at the present then write the syntax "git branch" it shows the present branch
+ 
+27) If you want to do the above step in oneline then write the syntax "git checkout -b (name of the file)".
  
