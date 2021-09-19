@@ -89,7 +89,10 @@ Git Hub :-
 2) After that copy the remote url and past to git bash here and then run it.
 3) After if you want to check how many remote are there in git bash then write syntax "git remote"
 3) Also to see the url of push and pull. write the syntax "git remote -v", it shows the url.
+4) Also make your own ssh key on to pull and push
+ 
+5) To push the syntax is " git push -u origin master "
 
-
+6) If you want to push branch then write the syntax " git push -u origin (name of the branch) "
 
  
